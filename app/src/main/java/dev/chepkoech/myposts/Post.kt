@@ -15,6 +15,10 @@ data class Comment(
     var email: String,
     var body: String
 )
+//fun main(){
+//    var post = Post(12,1,"djdjk","Jjkd")
+//    var comment = Comment(12,"23",23,"hfjfhj","nbmnm")
+//}
 
 //fun compareIds(post1: Post, post2: Post):Post{
 //        if(post1.id> post2.id){
